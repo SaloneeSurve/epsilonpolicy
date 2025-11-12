@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "epsilonpolicy"
-version = "0.1.0"
+version = "0.1.1"
 description = "A tiny epsilon-greedy action selection function for reinforcement learning."
 readme = "README.md"
 requires-python = ">=3.8"
